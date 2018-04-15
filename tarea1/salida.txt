@@ -1,0 +1,12 @@
+No se encontro numero que cumpliera las condiciones!
+No se encontro numero que cumpliera las condiciones!
+Entre 1 y 1000, el numero 840 tiene 31 divisores y la suma de sus divisores es 2040
+Entre 400 y 5000, el numero 2520 tiene 47 divisores y la suma de sus divisores es 6840
+Entre 20 y 40, el numero 36 tiene 8 divisores y la suma de sus divisores es 55
+Entre 500 y 1000, el numero 840 tiene 31 divisores y la suma de sus divisores es 2040
+Entre 20 y 200, el numero 180 tiene 17 divisores y la suma de sus divisores es 366
+Entre 1 y 5000, el numero 2520 tiene 47 divisores y la suma de sus divisores es 6840
+Entre 2 y 2000, el numero 1680 tiene 39 divisores y la suma de sus divisores es 4272
+No se encontro numero que cumpliera las condiciones!
+Entre 300 y 600, el numero 360 tiene 23 divisores y la suma de sus divisores es 810
+Entre 1 y 32000, el numero 27720 tiene 95 divisores y la suma de sus divisores es 84600

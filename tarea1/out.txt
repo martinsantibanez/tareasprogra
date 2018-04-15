@@ -1,0 +1,1 @@
+Entre 500 y 500, el numero 500 tiene 11 divisores y la suma de sus divisores es 592
